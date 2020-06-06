@@ -15,5 +15,9 @@
         "subtype": null
       }
     }
+  ],
+  "env": [
+    "REQUIRED_PARAM1",
+    "REQUIRED_PARAM2"
   ]
 }
